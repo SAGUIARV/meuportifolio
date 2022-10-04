@@ -43,3 +43,78 @@ li{
     
 }
 
+principal {
+
+    height: 100vh;
+    display: flex;
+    background-color: #eaeaea;
+}
+
+.subcontainer-principal{
+    display:flex
+    flex-direction table-column;
+}
+
+.container{
+
+    margin-right: auto;
+    margin-left: auto;
+    max width: 960px;
+    padding-right: 10px;
+    padding-left: 10px;
+    width 100%;
+}
+
+.nome-completo {
+
+    font-size: 36px;
+    color: #ff4dbc;
+    font-weight: 700;
+    height: 45px;
+
+}
+
+.profissão {
+    color: #c68505;
+    line-height: 32px;
+
+}
+
+.section-lista{
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+
+.topico-principal{
+    font-size: 36px;
+    color:#ff4dbc
+}
+
+.lista-item{
+    padding: 32px;
+}
+
+.lista-titulo{
+    margin-bottom: 5px;
+    font-size: 22px;
+    color: #661e4b;
+    font-weight:700
+
+}
+
+.lista-local{
+    font-size: 18px;
+    color: #2f80ed;
+}
+
+.lista-descriçaõ{
+    font-size: 18px;
+    margin-top: 5px;
+    line-height: 28px;
+    color:#828282;
+    font-weight: 300;
+
+}
